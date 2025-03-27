@@ -47,9 +47,8 @@ To run this project, you need to install the following Python libraries:
 - `textblob`
 - `sklearn`
 - `wordcloud`
-- `scipy`
 
 You can install these dependencies using `pip`:
 
 ```bash
-pip install pandas matplotlib seaborn textblob scikit-learn wordcloud scipy
+pip install pandas matplotlib seaborn textblob scikit-learn wordcloud 
